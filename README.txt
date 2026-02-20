@@ -1,0 +1,1 @@
+Wordpad is a simple text editor that allows users to create and edit text files.
